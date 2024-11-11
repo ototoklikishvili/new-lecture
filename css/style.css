@@ -262,3 +262,53 @@ a {
 
 /*news.img დასრულდა*/
 
+.contpic {
+	margin-right: 60px;
+}
+
+
+.s3 {
+	background-color: #E7E7E7;
+	padding: 100px 0 100px 100px;
+}
+
+.contactdiv {
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 172px;
+}
+
+.conh3 {
+	color: #4E6FAE;
+	font-family: "Helvetica Neue";
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-bottom: 30px;
+}
+
+
+
+.conp {
+	color: #3F4145;
+	font-family: "Helvetica Neue LT GEO";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-bottom: 30px;
+}
+
+
+span {
+	color: #7E8898;
+}
+
+
+
+.conimg2 {
+	margin-top: 91px;
+	margin-right: 41px;
+	margin-right: 41px;
+}
