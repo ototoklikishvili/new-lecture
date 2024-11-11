@@ -1,0 +1,135 @@
+.container {
+	
+	width: 1291px;
+	margin: 0 auto;
+}
+
+
+header {
+	margin-top: 50px;
+	margin-left: 100px;
+	margin-bottom: 60px;
+}
+
+
+.logo {
+	margin-right: 80px;
+}
+
+
+nav {
+	display: inline-block;
+}
+
+li {
+	display: inline-block;
+	margin-right: 80px;
+}
+
+a {
+	color: #8D81FF;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.active {
+	color: #4E6FAE;
+}
+/*header-ი დასრულდა*/
+
+.s1 {
+	margin-left: 100px;
+}
+
+
+.bluebox{
+	width: 50px;
+    height: 50px;
+    background: #5012D5;
+    color: #84FF81;
+	font-family: Helvetica;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+.purpleH4 {
+	color: #8D81FF;
+	font-family: "BPG Nino Mkhedruli";
+	font-size: 32px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-bottom: 8px;
+}
+.purpleH2 {
+	color: #4E6FAE;
+    font-family: "ALK Life", sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-bottom: 13px;
+}
+
+.indeximg {
+	
+}
+
+.myp {
+	color: #4E6FAE;
+
+	font-family: "ALK Tall Mtavruli", sans-serif;
+	
+	margin-top: 5px;
+	margin-left: 500px;
+	vertical-align: top;
+	display: inline-block;
+
+	
+}
+.myp2 {
+		color: #4E6FAE;
+		font-family: "ALK Tall Mtavruli", sans-serif;
+		font-size: 16px;
+		font-style: normal;
+		font-weight: 700;
+		line-height: normal;
+		margin-top: 5px;
+		margin-left: 500px;
+		vertical-align: top;
+		display: inline-block;
+}
+
+.myp3 {
+	color: #4E6FAE;
+		font-family: "ALK Tall Mtavruli", sans-serif;
+		font-size: 16px;
+		font-style: normal;
+		font-weight: 700;
+		line-height: normal;
+		margin-top: 5px;
+		margin-left: 500px;
+		vertical-align: top;
+		display: inline-block;
+}
+/*article დასასრული*/
+
+
+.footerimg1 {
+	margin-left: 100px;
+	margin-right: 41px;
+
+}
+
+
+.footerimg2 {
+	margin-right: 41px;
+}
+/*index.html დასრულდა*/
