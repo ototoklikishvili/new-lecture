@@ -92,6 +92,7 @@ a {
 	vertical-align: top;
 	display: inline-block;
 
+
 	
 }
 .myp2 {
@@ -121,6 +122,11 @@ a {
 }
 /*article დასასრული*/
 
+.container2 {
+	margin-left: 240px;
+}
+
+
 
 .footerimg1 {
 	margin-left: 100px;
@@ -133,3 +139,126 @@ a {
 	margin-right: 41px;
 }
 /*index.html დასრულდა*/
+
+.newsnav {
+	display: inline-block;
+}
+.newsimg1 {
+	margin-right: 80px;
+
+
+}
+
+
+.newsli1 {
+	margin-right: 80px;
+}
+
+.indeximg2 {
+	margin-bottom: 100px;
+}
+
+.infodiv {
+	
+	margin-bottom: 26px;
+}
+
+
+.newsh2 {
+	color: #4E6FAE;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 18px;
+}
+
+.line {
+	width: 2px;
+    height: 24px;
+    background-color: #5012D5;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 18px;
+}
+
+.indexh3 {
+	color: #4E6FAE;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	display: inline-block;
+	vertical-align: middle;
+
+}
+
+
+.newsh4 {
+	font-family: "Oswald", serif;
+	color: #3F4145;
+	font-family: Roboto;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-bottom: 20px;
+}
+
+
+.cardimg{
+	margin-right: 30px;
+}
+
+
+
+.newsp {
+  font-family: "Saira Condensed", sans-serif;
+  display: inline-block;
+  width: 335px;
+  line-height: 1.8;
+  color: #7E8898;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+
+.card1 {
+	
+	width: 500px;
+	height: 192px;
+	background-color: #E7E7E7;
+	padding: 21px 23px;
+	display: inline-block;
+	margin-right: 50px;
+	vertical-align: top;
+}
+
+
+.card2 {
+	width: 500px;
+	height: 192px;
+	background-color: #E7E7E7;
+	padding: 20px 20px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+
+.newsfb {
+	margin-top: 91px;
+	margin-right: 41px;
+}
+.newsline {
+	margin-right: 41px;
+}
+
+/*news.img დასრულდა*/
+
