@@ -310,5 +310,7 @@ span {
 .conimg2 {
 	margin-top: 91px;
 	margin-right: 41px;
-	margin-right: 41px;
+	display: inline-block;
+	margin-left: 25px;
+
 }
