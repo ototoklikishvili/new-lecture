@@ -86,37 +86,47 @@ a {
 	color: #4E6FAE;
 
 	font-family: "ALK Tall Mtavruli", sans-serif;
-	
+	width: 500px;
 	margin-top: 5px;
-	margin-left: 500px;
+	
 	vertical-align: top;
 	display: inline-block;
 
 
 	
 }
+
+.img1 {
+	vertical-align: top;
+	margin-right: 66px;
+	margin-right: 66px;
+}
+
 .myp2 {
 		color: #4E6FAE;
 		font-family: "ALK Tall Mtavruli", sans-serif;
-		font-size: 16px;
-		font-style: normal;
-		font-weight: 700;
-		line-height: normal;
+		width: 500px;
 		margin-top: 5px;
-		margin-left: 500px;
+	
 		vertical-align: top;
 		display: inline-block;
+}
+
+.img10 {
+	margin-right: 66px;
+}
+
+
+.img5 {
+	margin-right: 66px;
 }
 
 .myp3 {
 	color: #4E6FAE;
 		font-family: "ALK Tall Mtavruli", sans-serif;
-		font-size: 16px;
-		font-style: normal;
-		font-weight: 700;
-		line-height: normal;
+		width: 500px;
 		margin-top: 5px;
-		margin-left: 500px;
+		
 		vertical-align: top;
 		display: inline-block;
 }
